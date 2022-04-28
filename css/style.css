@@ -162,7 +162,8 @@ body {
     min-height: 80vh;
     display: grid;
     place-content: center;
-
+    background-image: url(/img/Kampanj.jpg);
+    
     margin-bottom: 3.157rem;
 }
 

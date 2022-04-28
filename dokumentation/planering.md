@@ -21,7 +21,7 @@ börja arbeta, lägga in texten på sidan och bilden
 
 
 ## Vecka 18
-Ändra på knappen och styla med css.
+Lägga in färgerna, fixa bilden, fixa en logo till sidan.
 
 
 ## Vecka 19 NP
