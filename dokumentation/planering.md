@@ -9,6 +9,7 @@ temat är ordning och säkerhet.
 
 * bilder ikoner
 ![voting](/img/Kampanj.jpg)
+![vote](/img/vote.jpg)
 * typsnitt
 Grotesque sans
 
