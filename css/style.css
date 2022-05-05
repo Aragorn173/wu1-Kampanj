@@ -1,8 +1,8 @@
 :root {
-    --color-light: hsl(0, 0%, 94%);
-    --color-dark: hsl(0, 0%, 20%);
+    --color-light: #F2F5EA ;
+    --color-dark: #2C363F;
     --color-shadow: hsla(0, 0%, 13%, 0.2);
-    --color-primary: hsl(347, 83%, 56%);
+    --color-primary: #D61F49;
     --color-secondary: hsl(275, 100%, 25%);
 
     --font-sans: "Merriweather Sans", sans-serif;

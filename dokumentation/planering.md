@@ -22,19 +22,17 @@ börja arbeta, lägga in texten på sidan och bilden
 
 
 ## Vecka 18
-Lägga in färgerna, fixa bilden, fixa en logo till sidan.
+Lägga in färgerna, fixa bilderna.
 
 
 ## Vecka 19 NP
 
 
 ## Vecka 20
-göra klart det som är kvar och validera sidan
+Fixa en logo, lägga in typsnitt, testa wave, validera sidan.
 
 
 ## Vecka 21 Kristi himmels
-
-
 
 
 ## Vecka 22 
