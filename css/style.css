@@ -5,7 +5,7 @@
     --color-primary: #D61F49;
     --color-secondary: hsl(275, 100%, 25%);
 
-    --font-sans: "Merriweather Sans", sans-serif;
+    --font-sans: "Darker Grotesque", sans-serif;
 }
 
 a {
@@ -66,7 +66,8 @@ a:hover {
     padding-left: 1rem;
 }
 .nav-link {
-    color: var(--color-secondary);
+    color: var(--color-light);
+    
 }
 .nav-link:hover {
     text-decoration: none;
@@ -178,7 +179,7 @@ body {
 }
 
 /* font stilar och storlekar */ 
-h1, h2, h3 {
+h1, h2 {
     margin-bottom: 0.777rem;
     line-height: 1.1;
 }

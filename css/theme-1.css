@@ -3,7 +3,7 @@
     --color-primary: #F2F5EA;
     --color-secondary: #2C363F;
 
-    --font-headline: serif;
+    --font-headline: "Darker Grotesque", sans-serif;
 }
 
 
@@ -19,11 +19,15 @@ footer a {
     color: var(--color-light);
 }
 
-h1, h2, h3 {
+h1, h2, h3, p {
     font-family: var(--font-headline);
 }
 h2{
-    padding-top: 1rem;
+    padding-top: 1.5rem;
+}
+
+main {
+    font-size: 1.3rem;
 }
 
 .navbar {
