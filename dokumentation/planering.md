@@ -31,6 +31,7 @@ Lägga in färgerna, fixa bilderna.
 ## Vecka 20
 Fixa en logo, lägga in typsnitt, testa wave, validera sidan.
 
+idag har jag lagt in en font tittat wave och fixat några kontrast problem som jag hade. jag validerade också sidan och fixade alla errors som uppstod.
 
 ## Vecka 21 Kristi himmels
 
