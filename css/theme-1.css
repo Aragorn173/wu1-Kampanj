@@ -37,7 +37,7 @@ main {
 }
 
 .hero {
-    background-image: url(/img/Kampanj.jpg);
+    background-image: url(/img/kampanj.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
